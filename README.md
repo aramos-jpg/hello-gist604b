@@ -4,4 +4,3 @@ Repository for first assignment.
 Hello fellow GISers, 
 
 I am Alba and I love to learn a little about everything! 
-Jack of all trades but master of none... yet. 
